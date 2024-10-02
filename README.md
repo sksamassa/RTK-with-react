@@ -1,3 +1,6 @@
+# Basics RTK with React.js
+View the page at [https://sksamassa.github.io/RTK-with-react/](RTK-with-react)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
